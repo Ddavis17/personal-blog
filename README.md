@@ -1,0 +1,1 @@
+I built this app as a way to learn git and github. Going foward ill keep it up to date.
